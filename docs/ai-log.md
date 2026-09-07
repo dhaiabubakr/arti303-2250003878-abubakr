@@ -1,0 +1,1 @@
+# I used an AI assistant to answer some questions on the use of getters and setters in the class and how its different from other programming languages.
